@@ -1,4 +1,4 @@
-# Plant-_Disease_Detection_from_Images
+# Plant_Disease_Detection_from_Images
 
 # Project Overview
 
