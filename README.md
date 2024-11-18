@@ -1,0 +1,1 @@
+# Plant-_Disease_Detection_from_Images
