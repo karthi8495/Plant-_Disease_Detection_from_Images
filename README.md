@@ -83,11 +83,6 @@ Deployed the Streamlit application using Streamlit. Conducted extensive testing 
 
 - Overall, **Custom CNN** stands out as the best model, offering the highest accuracy and balanced performance, making it the optimal choice for this classification task.
 
-##  User Guide
-
-For detailed instructions on using the application and interpreting predictions, please refer to the [User Guide](User_Guide.docx).
-
-
 ##  Challenges and Future Work
 
 ### Challenges:
